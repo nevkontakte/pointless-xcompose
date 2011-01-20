@@ -83,6 +83,10 @@
 <Multi_key> <p> <h> <i> : "φ" U03C6 # lower phi
 <Multi_key> <p> <s> <i> : "ψ" U03C8 # lower psi
 
+# Indexes
+<Multi_key> <underscore> <underscore> <i> : "ᵢ" U1D62 # i subscript
+<Multi_key> <asciicircum> <asciicircum> <i> : "ⁱ" U2071 # i superscript
+
 # Quantifier
 <Multi_key> <e> <x> : "∃" U2203 # There exists
 <Multi_key> <n> <e> <x> : "∄" U2204 # There does not exist
