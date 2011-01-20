@@ -78,6 +78,7 @@
 
 # Greek letters loved by mathematicans
 <Multi_key> <l> <a> : "λ" U03BB # lambda
+<Multi_key> <minus> <l> <a> : "ƛ" U019B # lambda stroke
 <Multi_key> <s> <u> <m> : "Σ" U03A3 # upper sigma
 <Multi_key> <p> <h> <i> : "φ" U03C6 # lower phi
 <Multi_key> <p> <s> <i> : "ψ" U03C8 # lower psi
@@ -85,6 +86,7 @@
 # Quantifier
 <Multi_key> <e> <x> : "∃" U2203 # There exists
 <Multi_key> <n> <e> <x> : "∄" U2204 # There does not exist
+<Multi_key> </> <e> <x> : "∄" U2204 # There does not exist
 <Multi_key> <a> <l> : "∀" U2200 # for all
 
 # Operators
